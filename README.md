@@ -2,11 +2,10 @@
 Aqui se muestra la ejecucion del comando\
 ``if __name__ == "__main__" :
   print("Hola mundo")
-  ``\\
-
-  ## **Block de Notas**\
+  ``
+  ## **Block de Notas**
   
-  ## **Python interprete**\
+  ## **Python interprete**
 
-  ## **VsCode**\
+  ## **VsCode**
   
